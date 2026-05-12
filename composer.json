@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "^3.10",
+        "guzzlehttp/guzzle": "^7.10",
+        "symfony/var-dumper": "^8.0",
+        "mercadopago/dx-php": "^3.9"
+    }
+}
